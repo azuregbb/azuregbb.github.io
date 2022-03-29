@@ -14,3 +14,7 @@ GBB MicroHack hands-on labs
 ## Azure High Performance Computer
 
 - [Azure HPC MicroHack](https://azure.microsoft.com/en-au/blog/azure-highperformance-computing-at-supercomputing-2021/#:~:text=and%20climate%20modeling.-,MicroHack,-Monday%2C%20November%2015)
+
+## Azure Data Serices 
+
+[Kusto Data Explorer](https://github.com/dawlysd/draft-azure-dns-private-resolver-microhack)
