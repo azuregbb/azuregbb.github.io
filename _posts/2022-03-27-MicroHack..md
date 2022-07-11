@@ -6,6 +6,8 @@ GBB MicroHack hands-on labs
 - [Azure Virtual WAN](https://github.com/mddazure/azure-vwan-microhack)
 - [Azure Private Link DNS integration](https://github.com/adstuart/azure-privatelink-dns-microhack)
 - [Azure Front Door](https://github.com/gbuchmsft/Azure-FrontDoor-MicroHack)
+- [Azure VPN & NAT](https://github.com/Danieleg82/AzureVPN-NAT)
+- [Azure Route Server](https://github.com/malgebary/Azure-Route-Server-MicroHack)
 
 ## Azure VMware Solutions
 
@@ -19,6 +21,3 @@ GBB MicroHack hands-on labs
 
 - [Kusto Data Explorer](https://github.com/dawlysd/draft-azure-dns-private-resolver-microhack)
 
-## Test category
-
-- Hello
