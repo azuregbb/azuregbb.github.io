@@ -17,4 +17,8 @@ GBB MicroHack hands-on labs
 
 ## Azure Data Serices 
 
-[Kusto Data Explorer](https://github.com/dawlysd/draft-azure-dns-private-resolver-microhack)
+- [Kusto Data Explorer](https://github.com/dawlysd/draft-azure-dns-private-resolver-microhack)
+
+## Test category
+
+- Hello
