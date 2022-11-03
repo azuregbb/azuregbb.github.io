@@ -8,6 +8,7 @@ GBB MicroHack hands-on labs
 - [Azure Front Door](https://github.com/gbuchmsft/Azure-FrontDoor-MicroHack)
 - [Azure VPN & NAT](https://github.com/Danieleg82/AzureVPN-NAT)
 - [Azure Route Server](https://github.com/malgebary/Azure-Route-Server-MicroHack)
+- [Azure Private Resolver](https://github.com/dawlysd/azure-dns-private-resolver-microhack)
 
 ## Azure VMware Solutions
 
