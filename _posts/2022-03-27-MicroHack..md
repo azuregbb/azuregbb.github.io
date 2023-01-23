@@ -9,6 +9,7 @@ GBB MicroHack hands-on labs
 - [Azure VPN & NAT](https://github.com/Danieleg82/AzureVPN-NAT)
 - [Azure Route Server](https://github.com/malgebary/Azure-Route-Server-MicroHack)
 - [Azure Private Resolver](https://github.com/dawlysd/azure-dns-private-resolver-microhack)
+- [Azure Firewall Premium](https://github.com/Danieleg82/AzFireWallPremium-MH)
 
 ## Azure VMware Solutions
 
