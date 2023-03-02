@@ -1,6 +1,6 @@
-GBB MicroHack hands-on labs
+GBB (and Friends) MicroHack hands-on labs
 
-## Networking team
+## Azure Networking
 
 - [AVD Outbound Internet scenarios](https://github.com/fguerri/internet-outbound-microhack)
 - [Azure Virtual WAN](https://github.com/mddazure/azure-vwan-microhack)
@@ -10,6 +10,7 @@ GBB MicroHack hands-on labs
 - [Azure Route Server](https://github.com/malgebary/Azure-Route-Server-MicroHack)
 - [Azure Private Resolver](https://github.com/dawlysd/azure-dns-private-resolver-microhack)
 - [Azure Firewall Premium](https://github.com/Danieleg82/AzFireWallPremium-MH)
+- [Azure Application Gateway](https://github.com/dawlysd/azure-application-gateway-microhack)
 
 ## Azure VMware Solutions
 
