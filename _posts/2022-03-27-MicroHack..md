@@ -11,6 +11,7 @@ GBB (and Friends) MicroHack hands-on labs
 - [Azure Private Resolver](https://github.com/dawlysd/azure-dns-private-resolver-microhack)
 - [Azure Firewall Premium](https://github.com/Danieleg82/AzFireWallPremium-MH)
 - [Azure Application Gateway](https://github.com/dawlysd/azure-application-gateway-microhack)
+- [Azure Virtual Network Manager](https://github.com/aramsmith/avnm-microhack)
 
 ## Azure VMware Solutions
 
