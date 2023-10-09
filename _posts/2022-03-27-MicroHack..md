@@ -3,7 +3,8 @@ GBB (and Friends) MicroHack hands-on labs
 ## Azure Networking
 
 - [AVD Outbound Internet scenarios](https://github.com/fguerri/internet-outbound-microhack)
-- [Azure Virtual WAN](https://github.com/mddazure/azure-vwan-microhack)
+- [Routing in Azure Virtual WAN](https://github.com/mddazure/azure-vwan-microhack)
+- [Security in Azure Virtual WAN](https://github.com/mddazure/azure-vwan-security-microhack)
 - [Azure Private Link DNS integration](https://github.com/adstuart/azure-privatelink-dns-microhack)
 - [Azure Front Door](https://github.com/gbuchmsft/Azure-FrontDoor-MicroHack)
 - [Azure VPN & NAT](https://github.com/Danieleg82/AzureVPN-NAT)
